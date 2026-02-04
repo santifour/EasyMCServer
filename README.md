@@ -1,111 +1,151 @@
-# 🎮 EasyMCServer
+# 🎮 EasyMCServer v2.0  
+## The Ultimate Minecraft Server Control Panel
 
-### Create and manage a Minecraft server in minutes — no technical knowledge required.
+**EasyMCServer** is a powerful yet incredibly easy-to-use desktop application that lets you create, manage, and control Minecraft servers without the usual pain.
 
-Setting up a Minecraft server with Hamachi is usually painful:
-config files, EULA errors, Java issues, broken servers…
-
-**EasyMCServer fixes all of that.**
-
-Just open the app, choose your version, enter your Hamachi IP —  
-and your server is ready.
+Whether you’re spinning up a quick **Vanilla server** to play with friends or running a **Forge-powered modded world**, EasyMCServer does the heavy lifting — so you can focus on what actually matters: **playing Minecraft**.
 
 ---
 
-## 🚀 Why EasyMCServer?
-
-Because Minecraft should be fun, not a technical nightmare.
-
-With EasyMCServer you can:
-- ❌ Stop editing text files
-- ❌ Stop watching outdated YouTube tutorials
-- ❌ Stop dealing with EULA errors
-- ❌ Stop typing commands you don’t understand
-
-And start playing instead.
-
----
-
-## ✨ What Can It Do?
-
-- 🧱 **One-click Minecraft Server Setup**
-- 🌐 **Hamachi IP automatically configured**
-- 📜 **EULA accepted for you**
-- ⚙️ **Server settings editor (no coding, no files)**
-- 🎛️ **Built-in Server Control Panel**
-- ▶️ Start / Stop / Restart your server
-- 📜 Live console output
-- 🎮 Ready-to-use command buttons
-- 🖼️ Custom server icon support
-- 🧩 Vanilla & Forge support
-- 🌍 Multi-language interface (planned)
-
-Everything is done **inside one clean app**.
-
----
-
-## 🧠 How It Works (Simple Version)
-
-1. Open EasyMCServer
-2. Choose your Minecraft version
-3. Enter your Hamachi IPv4 address
-4. Click **Install**
-5. Play 🎉
-
-That’s it.
-
----
-
-## 🖥️ Screenshots
+## 🖼️ Preview
 
 <img width="360" height="360" alt="resim" src="https://github.com/user-attachments/assets/c83d0bc0-6af8-436d-8433-b89c9e4e3406" />
 <img width="360" height="360" alt="resim" src="https://github.com/user-attachments/assets/9bb02ce7-4e1e-491e-8d7a-b5e7c3143b9b" />
 <img width="360" height="360" alt="resim" src="https://github.com/user-attachments/assets/1df5bfd8-1962-47cd-bb93-1f02d4873a28" />
 <img width="360" height="360" alt="resim" src="https://github.com/user-attachments/assets/5ba6cd82-34d0-4318-8644-15d4ebe4bbe8" />
+---
 
+## 🌟 Why EasyMCServer?
 
+Hosting a Minecraft server shouldn’t require:
+- Editing confusing text files  
+- Memorizing commands  
+- Watching outdated tutorials  
+- Breaking your server every time you change a setting  
 
+**EasyMCServer turns all of that into buttons, toggles, and dashboards.**
+
+---
+
+## 🛠️ One-Click Installation
+
+Creating a server is fast and painless.
+
+- 🧙 **Wizard-Based Setup**  
+  Create new servers in seconds. Just name it, choose a version, and click install.
+- 📦 **Version Support**  
+  Automatically downloads and installs the latest **Vanilla** and **Forge** versions.
+- 🌐 **Hamachi Friendly**  
+  Dedicated fields for Hamachi IPv4 configuration — perfect for private friend groups.
+
+---
+
+## 🖥️ Advanced Dashboard
+
+Stay in control at all times with a clean, modern control panel.
+
+- 📊 **Real-Time Stats**  
+  Monitor RAM usage, player count, uptime, and ping instantly.
+- 🖥️ **Live Console Access**  
+  View server logs and execute commands in real time.
+- 🟢 **Status Indicators**  
+  Clear visual indicators for Online / Offline server status.
+
+---
+
+## ⚙️ Visual Configuration
+
+No more digging through configuration files.
+
+- 🧩 **No Text Files Needed**  
+  Edit `server.properties` using an intuitive UI.
+- 🗂️ **Categorized Settings**  
+  Easily navigate through General, Game, World, Performance, and Security tabs.
+- ⚡ **Instant Changes**  
+  Toggle PvP, adjust difficulty, enable flight, and more — with a single click.
+
+---
+
+## 📦 Mod & Backup Manager
+
+Experiment freely, knowing your server is safe.
+
+- 🧱 **Easy Modding**  
+  Install `.jar` mods effortlessly and manage your mods folder directly from the app.
+- 💾 **One-Click Backups**  
+  Create full server backups anytime.
+- ♻️ **Disaster Recovery**  
+  Instantly restore previous server states if something goes wrong.
+
+---
+
+## 🤖 Automation
+
+Let EasyMCServer take care of routine tasks.
+
+- ⏱️ **Auto-Backup**  
+  Schedule automatic backups to protect your worlds.
+- 🔄 **Auto-Restart**  
+  Keep performance smooth with scheduled server restarts.
+
+---
+
+## 🌐 Multi-Language Support
+
+Built for everyone.
+
+- 🌍 **Full Localization**  
+  Instantly switch between **English 🇬🇧** and **Turkish 🇹🇷**.
+- ✨ **Seamless UI**  
+  Every label, button, and tooltip is fully translated for a native experience.
+
+---
+
+## ⚡ Quick Commands
+
+Powerful server control, simplified.
+
+- 🎛️ **Macro Buttons**  
+  Execute complex commands like *Clear Items*, *Time Day*, or *Whitelist Reload* with one click.
+- 🗃️ **Grouped Actions**  
+  Commands organized by **Management**, **Players**, **World**, and **Info** for fast access.
 
 ---
 
 ## 📦 Download
 
-👉 **Get the latest Windows version here:**
+👉 **Download the latest version here:**  
+🔗 **[EasyMCServer Releases](../../releases/latest)**
 
-🔗 **[Download EasyMCServer](../../releases/latest)**
-
-> Java 17 or higher is required.
+> ☕ Requires **Java 17 or higher**
 
 ---
 
 ## ❤️ Who Is This For?
 
-- Friends who just want to play together
-- People who hate technical setup
-- Beginners who never hosted a server before
-- Anyone tired of breaking things while “following tutorials”
+- Friends who just want to play together  
+- Beginners hosting a server for the first time  
+- Modded Minecraft players  
+- Anyone tired of breaking servers while “following tutorials”
 
 ---
 
 ## 🛠️ Built With
 
-- Electron
-- Node.js
-- TypeScript
-- React
+- Electron  
+- Node.js  
+- TypeScript  
+- React  
 
 ---
 
 ## 📜 License
 
-EasyMCServer is open-source under the **GNU General Public License v3.0 (GPL-3.0)**.
+EasyMCServer is open-source software licensed under the  
+**GNU General Public License v3.0 (GPL-3.0)**.
 
-You can:
-- Use it
-- Modify it
-- Share it
-
-But any modified version must stay open-source.
+You are free to use, modify, and distribute this project —  
+as long as derivative works remain open-source.
 
 ---
 
@@ -116,16 +156,11 @@ Minecraft is a trademark of Mojang Studios.
 
 ---
 
-## 🤝 Contribute
+## ⭐ Support the Project
 
-Found a bug?  
-Have a feature idea?
-
-Contact me - santidadandres@gmail.com
-
-Open an issue or a pull request — contributions are welcome ❤️
-
----
+If EasyMCServer made your life easier,  
+consider giving the project a **star ⭐** on GitHub.  
+It really helps!
 
 ## ⭐ Support the Project
 
