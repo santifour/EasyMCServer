@@ -162,8 +162,4 @@ If EasyMCServer made your life easier,
 consider giving the project a **star ⭐** on GitHub.  
 It really helps!
 
-## ⭐ Support the Project
-
-If EasyMCServer helped you,
-please consider giving the project a **star ⭐** on GitHub.
-It helps a lot!
+Please contact us for any problems/suggestions - santidadandres@gmail.com
