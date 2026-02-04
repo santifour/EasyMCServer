@@ -15,6 +15,15 @@ Whether you’re spinning up a quick **Vanilla server** to play with friends or 
 <img width="360" height="360" alt="resim" src="https://github.com/user-attachments/assets/5ba6cd82-34d0-4318-8644-15d4ebe4bbe8" />
 ---
 
+## 📦 Download
+
+👉 **Download the latest version here:**  
+🔗 **[EasyMCServer Releases](../../releases/latest)**
+
+> ☕ Requires **Java 17 or higher**
+
+---
+
 ## 🌟 Why EasyMCServer?
 
 Hosting a Minecraft server shouldn’t require:
@@ -112,14 +121,6 @@ Powerful server control, simplified.
 
 ---
 
-## 📦 Download
-
-👉 **Download the latest version here:**  
-🔗 **[EasyMCServer Releases](../../releases/latest)**
-
-> ☕ Requires **Java 17 or higher**
-
----
 
 ## ❤️ Who Is This For?
 
