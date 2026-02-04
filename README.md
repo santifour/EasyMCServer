@@ -58,7 +58,9 @@ That’s it.
 
 ## 🖥️ Screenshots
 
-<img width="640" height="640" alt="resim" src="https://github.com/user-attachments/assets/c83d0bc0-6af8-436d-8433-b89c9e4e3406" />
+<img width="480" height="480" alt="resim" src="https://github.com/user-attachments/assets/c83d0bc0-6af8-436d-8433-b89c9e4e3406" />
+<img width="480" height="480" alt="resim" src="https://github.com/user-attachments/assets/9bb02ce7-4e1e-491e-8d7a-b5e7c3143b9b" />
+
 
 
 
