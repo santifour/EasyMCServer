@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="#english">English</a> | 
-  <a href="#türkçe">Türkçe</a>
+  <a href="#english">English 🇬🇧</a> | 
+  <a href="#türkçe">Türkçe 🇹🇷</a>
 </p>
 
 ## English 🇬🇧
