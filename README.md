@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="#english">English</a> | 
+  <a href="#türkçe">Türkçe</a>
+</p>
+
+## English
+
 # 🎮 EasyMCServer v2.0  
 ## The Ultimate Minecraft Server Control Panel
 
@@ -167,4 +174,190 @@ If EasyMCServer made your life easier,
 consider giving the project a **star ⭐** on GitHub.  
 It really helps!
 
-Please contact us for any problems/suggestions - santidadandres@gmail.com
+Please contact us for any problems/suggestions
+📧 santidadandres@gmail.com
+
+
+---
+
+## Türkçe
+
+---
+
+# 🎮 EasyMCServer v2.0
+
+## En Kolay ve Güçlü Minecraft Sunucu Kontrol Paneli
+
+**EasyMCServer**, Minecraft sunucularını kurmayı, yönetmeyi ve kontrol etmeyi **acı çekmeden** yapmanı sağlayan güçlü ama inanılmaz derecede kolay bir masaüstü uygulamasıdır.
+
+İster arkadaşlarınla oynamak için hızlı bir **Vanilla sunucu** kur, ister **Forge destekli modlu bir dünya** çalıştır — EasyMCServer tüm zahmetli işleri senin yerine halleder.
+Sen sadece asıl önemli şeye odaklan: **Minecraft oynamaya**.
+
+---
+
+## 🖼️ Önizleme
+
+<img width="360" height="360" alt="resim" src="https://github.com/user-attachments/assets/c83d0bc0-6af8-436d-8433-b89c9e4e3406" />
+<img width="360" height="360" alt="resim" src="https://github.com/user-attachments/assets/9bb02ce7-4e1e-491e-8d7a-b5e7c3143b9b" />
+<img width="360" height="360" alt="resim" src="https://github.com/user-attachments/assets/1df5bfd8-1962-47cd-bb93-1f02d4873a28" />
+<img width="360" height="360" alt="resim" src="https://github.com/user-attachments/assets/b2b9bfdb-7c38-4f58-9d44-11ae0de383e0" />
+
+---
+
+## 📦 İndirme
+
+👉 **En güncel sürümü buradan indir:**
+🔗 **[EasyMCServer Kurulum](../../releases/latest) Önerilen⭐**
+
+🔗 **[EasyMCServer Portable](https://github.com/santifour/EasyMCServer/releases/download/portable/EasyMCServer.Portable.zip)**
+
+> ☕ **Java 17 veya üzeri gerektirir**
+
+---
+
+## 🌟 Neden EasyMCServer?
+
+Bir Minecraft sunucusu açmak şunları gerektirmemeli:
+
+* Karmaşık metin dosyaları düzenlemek
+* Komut ezberlemek
+* Eski ve saçma tutorial’lar izlemek
+* Ayar değiştirirken sunucuyu bozmak
+
+**EasyMCServer, bunların hepsini butonlara, anahtarlara ve panellere dönüştürür.**
+
+---
+
+## 🛠️ Tek Tıkla Kurulum
+
+Sunucu oluşturmak hızlı ve zahmetsizdir.
+
+* 🧙 **Sihirbaz Destekli Kurulum**
+  Saniyeler içinde yeni sunucu oluştur. İsim ver, sürüm seç, kur.
+* 📦 **Sürüm Desteği**
+  En güncel **Vanilla** ve **Forge** sürümlerini otomatik indirir ve kurar.
+* 🌐 **Hamachi Uyumlu**
+  Hamachi IPv4 için özel alanlar — arkadaş grupları için birebir.
+
+---
+
+## 🖥️ Gelişmiş Kontrol Paneli
+
+Modern ve temiz bir panelle her an kontrol sende.
+
+* 📊 **Gerçek Zamanlı İstatistikler**
+  RAM kullanımı, oyuncu sayısı, çalışma süresi ve ping’i anında gör.
+* 🖥️ **Canlı Konsol Erişimi**
+  Sunucu loglarını izle ve komutları anında çalıştır.
+* 🟢 **Durum Göstergeleri**
+  Online / Offline durumu net görsel göstergelerle takip et.
+
+---
+
+## ⚙️ Görsel Ayar Paneli
+
+Artık config dosyalarıyla uğraşmak yok.
+
+* 🧩 **Metin Dosyası Yok**
+  `server.properties` ayarlarını görsel arayüzden düzenle.
+* 🗂️ **Kategorilere Ayrılmış Ayarlar**
+  Genel, Oyun, Dünya, Performans ve Güvenlik sekmeleriyle kolay gezinme.
+* ⚡ **Anında Değişiklikler**
+  PvP aç/kapat, zorluk ayarla, uçmayı etkinleştir — tek tıkla.
+
+---
+
+## 📦 Mod & Yedekleme Yöneticisi
+
+Gönül rahatlığıyla deneme yap.
+
+* 🧱 **Kolay Mod Kurulumu**
+  `.jar` modlarını zahmetsizce ekle, mod klasörünü uygulama içinden yönet.
+* 💾 **Tek Tık Yedekleme**
+  İstediğin zaman tam sunucu yedeği al.
+* ♻️ **Felaket Kurtarma**
+  Bir şeyler ters giderse önceki sunucu durumuna anında dön.
+
+---
+
+## 🤖 Otomasyon
+
+Rutin işleri EasyMCServer halletsin.
+
+* ⏱️ **Otomatik Yedekleme**
+  Düzenli yedeklerle dünyalarını koru.
+* 🔄 **Otomatik Yeniden Başlatma**
+  Planlı restart’larla performansı yüksek tut.
+
+---
+
+## 🌐 Çoklu Dil Desteği
+
+Herkes için tasarlandı.
+
+* 🌍 **Tam Yerelleştirme**
+  **İngilizce 🇬🇧** ve **Türkçe 🇹🇷** arasında anında geçiş yap.
+* ✨ **Akıcı Arayüz**
+  Tüm butonlar, etiketler ve ipuçları tamamen çevrilmiştir.
+
+---
+
+## ⚡ Hızlı Komutlar
+
+Güçlü kontrol, basitleştirilmiş hâliyle.
+
+* 🎛️ **Makro Butonlar**
+  *Item Temizle*, *Gündüz Yap*, *Whitelist Yenile* gibi komutları tek tıkla çalıştır.
+* 🗃️ **Gruplanmış İşlemler**
+  Komutlar **Yönetim**, **Oyuncular**, **Dünya** ve **Bilgi** olarak ayrılmıştır.
+
+---
+
+## ❤️ Kimler İçin?
+
+* Sadece arkadaşlarıyla oynamak isteyenler
+* İlk kez sunucu açanlar
+* Modlu Minecraft oyuncuları
+* “Tutorial izleyip sunucu bozmak”tan bıkan herkes
+
+---
+
+## 🛠️ Kullanılan Teknolojiler
+
+* Electron
+* Node.js
+* TypeScript
+* React
+
+---
+
+## 📜 Lisans
+
+EasyMCServer,
+**GNU General Public License v3.0 (GPL-3.0)** lisansı ile açık kaynak olarak sunulmaktadır.
+
+Bu projeyi kullanmakta, değiştirmekte ve dağıtmakta özgürsün —
+ancak türetilen projeler de açık kaynak olmak zorundadır.
+
+---
+
+## ⚠️ Yasal Uyarı
+
+EasyMCServer, **Mojang veya Microsoft ile bağlantılı değildir**.
+Minecraft, Mojang Studios’un tescilli markasıdır.
+
+---
+
+## ⭐ Destek Ol
+
+Eğer EasyMCServer işini kolaylaştırdıysa,
+GitHub’da projeye bir **star ⭐** bırakmayı düşünebilirsin.
+Gerçekten çok yardımcı oluyor!
+
+Her türlü sorun ve öneri için bizimle iletişime geç:
+📧 santidadandres@gmail.com
+
+---
+
+
+
